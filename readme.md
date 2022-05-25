@@ -1,3 +1,11 @@
+> ⚠️&nbsp;&nbsp;This repo contains the source for a component of the Brigade
+> v1.x ecosystem. Brigade v1.x reached end-of-life on June 1, 2022 and as a
+> result, this component is no longer maintained.
+>
+> Brigade v2 users can utilize the
+> [Brigade GitHub Gateway](https://github.com/brigadecore/brigade-github-gateway)
+> to support the use cases previously supported by this gateway.
+
 # Brigade OAuth Gateway
 
 > Note: this is the initial GitHub gateway that shipped with Brigade, and uses a per-repository OAuth model. The new, and recommended way, is to use the GitHub app model, implemented in [this repo](https://github.com/azure/brigade-github-app).
